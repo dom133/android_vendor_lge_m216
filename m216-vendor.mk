@@ -88,6 +88,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/m216/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/lge/m216/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/m216/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
+    vendor/lge/m216/proprietary/lib/libSJlowlight.so:system/lib/libSJlowlight.so \
     vendor/lge/m216/proprietary/lib/libuicc.so:system/lib/libuicc.so \
     vendor/lge/m216/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
     vendor/lge/m216/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \
@@ -145,7 +146,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/m216/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
     vendor/lge/m216/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/lge/m216/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
-    vendor/lge/m216/proprietary/vendor/lib/libSJlowlight.so:system/vendor/lib/libSJlowlight.so \
     vendor/lge/m216/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/lge/m216/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/lge/m216/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
